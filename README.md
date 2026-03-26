@@ -10,7 +10,7 @@ My Vim configuration, works on macOS and Linux.
 ## Setup
 
 ```bash
-git clone https://github.com/hurricanerix/vim ~/.vim
+git clone git@github.com:hurricanerix/vim.git ~/.vim
 cd ~/.vim
 make
 ```
