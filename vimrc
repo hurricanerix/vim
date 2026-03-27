@@ -100,7 +100,7 @@ Plug 'prabirshrestha/asyncomplete-lsp.vim'
 Plug 'airblade/vim-gitgutter'
 
 " Color scheme — tokyonight light and dark variants
-Plug 'ghifarit53/tokyonight-vim'
+Plug 'hurricanerix/tokyonight-vim'
 
 call plug#end()
 
