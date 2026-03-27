@@ -10,7 +10,8 @@ syntax enable
 let mapleader = ","            " <Leader> = comma; change to space if preferred
 
 " --- Line numbers ---
-set number                     " absolute line numbers
+set number
+set relativenumber
 
 " --- Editing feel ---
 set backspace=indent,eol,start
