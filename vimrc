@@ -6,6 +6,8 @@ set nocompatible               " Vim 9, not Vi
 filetype plugin indent on      " required by vim-go and most plugins
 syntax enable
 
+set re=0
+
 " --- Leader key ---
 let mapleader = ","            " <Leader> = comma; change to space if preferred
 
